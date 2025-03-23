@@ -1,0 +1,6 @@
+@_7ktado_HostAddress = http://localhost:5163
+
+GET {{_7ktado_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
